@@ -3,7 +3,7 @@
 <!-- ========================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Welcome!;Computer+Networks+Student;Linux+%7C+Infrastructure+%7C+Automation;Cybersecurity+and+Network+Monitoring+%F0%9F%9B%A1%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Welcome!+%F0%9F%9B%A1%EF%B8%8F" />
 </p>
 
 <h1 align="center"> Hello! I'm Matheus </h1>
