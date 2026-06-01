@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Welcome+to+Matheus'+Network+Lab!;Computer+Networks+Student;Linux+%7C+Infrastructure+%7C+Automation;Cybersecurity+and+Network+Monitoring+%F0%9F%9B%A1%EF%B8%8F" />
 </p>
 
-<h1 align="center">✨ Hello! I'm Matheus 👋</h1>
+<h1 align="center"> Hello! I'm Matheus </h1>
 
 <p align="center">
   <em>Computer Networks student focused on Linux, infrastructure, automation and cybersecurity.</em>
@@ -47,27 +47,27 @@
 
 ---
 
-### 🌟 Highlights
+### Highlights
 
-- 🎓 Computer Networks student at UFSM  
-- 💻 Computer Technician graduated from IFFar  
-- 🐧 Linux and infrastructure enthusiast  
-- 🛡️ Practical labs with Suricata IDS/IPS  
-- ⚙️ Automation projects using Python and SQLite  
-- 🔧 Experience with technical support, troubleshooting and hardware maintenance  
-
----
-
-### 🧠 Featured Projects
-
-- 🤖 **Automated Service System** – Python and SQLite project focused on customer registration, service organization and future API integration.  
-- 🛡️ **Suricata IDS Laboratory** – Virtualized lab using Ubuntu Server and Kali Linux for traffic analysis, log monitoring and IDS/IPS studies.  
-- 🐧 **Linux Automation Scripts** – Scripts for backup, monitoring, file organization and basic Linux administration.  
-- 🌐 **TCP/IP Network Studies** – Practical studies with IP addressing, network services, sockets and virtualized environments.  
+-  Computer Networks student at UFSM  
+-  Computer Technician graduated from IFFar  
+-  Linux and infrastructure enthusiast  
+-  Practical labs with Suricata IDS/IPS  
+-  Automation projects using Python and SQLite  
+-  Experience with technical support, troubleshooting and hardware maintenance  
 
 ---
 
-### 📚 Currently Learning
+###  Featured Projects
+
+-  **Automated Service System** – Python and SQLite project focused on customer registration, service organization and future API integration.  
+-  **Suricata IDS Laboratory** – Virtualized lab using Ubuntu Server and Kali Linux for traffic analysis, log monitoring and IDS/IPS studies.  
+-  **Linux Automation Scripts** – Scripts for backup, monitoring, file organization and basic Linux administration.  
+-  **TCP/IP Network Studies** – Practical studies with IP addressing, network services, sockets and virtualized environments.  
+
+---
+
+###  Currently Learning
 
 - TCP/IP Networks  
 - Linux Server  
@@ -80,7 +80,7 @@
 
 ---
 
-### 📊 GitHub Insights
+###  GitHub Insights
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheus-luiz30&theme=tokyonight" alt="Profile Details" />
@@ -89,7 +89,7 @@
 
 ---
 
-### 💬 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://wa.me/qr/MS2NQHIM6H2OI1" target="_blank">
@@ -103,5 +103,4 @@
 
 ---
 
-### ✨ Thanks for visiting! 🚀
-```
+### Thanks for visiting! 
