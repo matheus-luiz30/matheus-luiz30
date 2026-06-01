@@ -3,7 +3,7 @@
 <!-- ========================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Welcome+to+Matheus'+Network+Lab!;Computer+Networks+Student;Linux+%7C+Infrastructure+%7C+Automation;Cybersecurity+and+Network+Monitoring+%F0%9F%9B%A1%EF%B8%8F" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Welcome+to+Matheus+Network+Lab!;Computer+Networks+Student;Linux+%7C+Infrastructure+%7C+Automation;Cybersecurity+and+Network+Monitoring+%F0%9F%9B%A1%EF%B8%8F" />
 </p>
 
 <h1 align="center"> Hello! I'm Matheus </h1>
@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Skills & Technologies
+### Skills & Technologies
 
 <table align="center">
   <tr>
@@ -24,7 +24,6 @@
     <th align="center">Tools</th>
   </tr>
   <tr align="center">
-    <!-- Infrastructure -->
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60" style="margin:5px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="60" style="margin:5px;" />
