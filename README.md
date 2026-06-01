@@ -1,7 +1,3 @@
-<!-- ========================================== -->
-<!-- Matheus Luiz Oliveira - README             -->
-<!-- ========================================== -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F5A0&center=true&vCenter=true&width=900&lines=Welcome!"/>
 </p>
